@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "django-helpdesk",
+  "scripts": {
+    "postdeploy": "cd demo"
+  },
+  "stack": "heroku-18"
+}
